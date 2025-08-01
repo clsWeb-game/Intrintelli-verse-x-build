@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "164870372382",
+    "project_id": "hidenueek",
+    "storage_bucket": "hidenueek.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164870372382:android:3eb5edf8d4d113d5b7420f",
+        "android_client_info": {
+          "package_name": "com.intelliversex.lasttolive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164870372382-8lieutm10ngm7us711p6c12m7lhddg9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAg_gjtEJrzxBwh5ac1a3qve-xtoCPSLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164870372382-8lieutm10ngm7us711p6c12m7lhddg9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "164870372382-85rhee4c5bvph3ss8g708r3hgh697bi6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.intelliversex.peekaboo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164870372382:android:91f5c448a5bdcf70b7420f",
+        "android_client_info": {
+          "package_name": "com.intelliversex.peekaboo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164870372382-9o2qrpnlbbjm89kueflopms7q9anop4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intelliversex.peekaboo",
+            "certificate_hash": "853c6d9571799c261b014e5023aaacc88d8f1fb8"
+          }
+        },
+        {
+          "client_id": "164870372382-8lieutm10ngm7us711p6c12m7lhddg9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAg_gjtEJrzxBwh5ac1a3qve-xtoCPSLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164870372382-8lieutm10ngm7us711p6c12m7lhddg9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "164870372382-85rhee4c5bvph3ss8g708r3hgh697bi6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.intelliversex.peekaboo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
